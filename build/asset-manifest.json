@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ugzorlu/covid-dataviz/static/css/main.13e2374c.chunk.css",
+    "main.js": "/ugzorlu/covid-dataviz/static/js/main.63034156.chunk.js",
+    "main.js.map": "/ugzorlu/covid-dataviz/static/js/main.63034156.chunk.js.map",
+    "runtime-main.js": "/ugzorlu/covid-dataviz/static/js/runtime-main.1cdd1ca0.js",
+    "runtime-main.js.map": "/ugzorlu/covid-dataviz/static/js/runtime-main.1cdd1ca0.js.map",
+    "static/js/2.cec4af7c.chunk.js": "/ugzorlu/covid-dataviz/static/js/2.cec4af7c.chunk.js",
+    "static/js/2.cec4af7c.chunk.js.map": "/ugzorlu/covid-dataviz/static/js/2.cec4af7c.chunk.js.map",
+    "index.html": "/ugzorlu/covid-dataviz/index.html",
+    "precache-manifest.6790495d0a4b4d20b67830b51d7baac6.js": "/ugzorlu/covid-dataviz/precache-manifest.6790495d0a4b4d20b67830b51d7baac6.js",
+    "service-worker.js": "/ugzorlu/covid-dataviz/service-worker.js",
+    "static/css/main.13e2374c.chunk.css.map": "/ugzorlu/covid-dataviz/static/css/main.13e2374c.chunk.css.map",
+    "static/js/2.cec4af7c.chunk.js.LICENSE.txt": "/ugzorlu/covid-dataviz/static/js/2.cec4af7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cdd1ca0.js",
+    "static/js/2.cec4af7c.chunk.js",
+    "static/css/main.13e2374c.chunk.css",
+    "static/js/main.63034156.chunk.js"
+  ]
+}
